@@ -1,0 +1,3 @@
+[submodule "LibFFT"]
+	path = LibFFT
+	url = https://github.com/ebragge/LibFFT.git
