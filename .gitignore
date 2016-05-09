@@ -1,4 +1,10 @@
 .vs/
 ARM/
-LibTDE.sdf
+Debug/
+Release/
 LibTDE/ARM/
+LibTDE/Debug/
+LibTDE/Release/
+LibTDE.sdf
+ipch/
+x64/
